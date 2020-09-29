@@ -19,6 +19,7 @@ namespace GameTop
             Console.Write( _jogadora.Chuta());
             Console.Write( _jogadora.Corre());
             Console.Write( _jogadora.Passe());
+            
 
             Console.Write( "\n proximo jogador \n");
 
